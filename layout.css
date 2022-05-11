@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 60vw;
+    height: 80vh;
+    margin: auto;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+}
+
+header {
+    background-color: orangered;
+    text-align: center;
+    height: 15vh;
+}
+
+nav {
+    background-color: rgb(0, 132, 255);
+    text-align: center;
+    height: 10vh; 
+}
+
+aside {
+    float: left;
+    background-color: yellow;
+    height: 40vh;
+    width: 25%;
+    text-align: center;
+}
+
+main {
+    background-color: lightgray;
+    height: 40vh;
+    width: 100%;
+    text-align: center;
+}
+
+footer {
+    background-color: gray;
+    height: 15vh;
+    text-align: center;
+}
+
